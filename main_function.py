@@ -5,7 +5,7 @@ from Encoder import Encoder
 from EncoderButton import EncoderButton
 from EncoderColor import EncoderColor
 from Light import Light
-from colors import Colors
+from Colors import Colors
 
 encoder = Encoder()
 
